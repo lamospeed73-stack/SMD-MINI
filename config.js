@@ -10,10 +10,10 @@ module.exports = {
     // =============================
     // DATABASE
     // =============================
-    MONGODB_URI:
+    DATABASE_URL:
         process.env.MONGODB_URI ||
         process.env.DATABASE_URL ||
-        "mongodb+srv://habiyib632_db_user:4m283oJB92CM7OCH@shaban15.hds7kp1.mongodb.net/?appName=Shaban15",
+        "", // ENTER POSTGRES DB URL OR MONGODB PUBLIC URL OR ENTER NOTHING FOR USE FREE SITE
 
     // =============================
     // BOT CORE SETTINGS
