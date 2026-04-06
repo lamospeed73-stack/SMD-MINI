@@ -1,0 +1,22 @@
+{
+  "name": "SMD-MiNi",
+  "description": "Javascript WhatsApp bot powered by Team-Bandaheali",
+  "logo": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+  "keywords": ["SMD-MiNi", "MrShaban", "Bandaheali", "Team-Bandaheali", "WhatsApp Bot", "Bandaheali"],
+  "success_url": "/",
+  "stack": "heroku-24",
+
+  "env": {
+    "DATABASE_URL": {
+      "description": "MongoDb / PostgreSQL / Supabase database connection URL",
+      "required": false,
+      "value": ""
+    }
+  },
+
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ]
+}
