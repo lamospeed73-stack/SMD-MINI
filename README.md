@@ -78,7 +78,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
   </a>
   
   <!-- Get Postgres Database Button -->
-  <a href="https://www.elephantsql.com/">
+  <a href="[[https://www.elephantsql.com/](https://cockroachlabs.cloud/)](https://cockroachlabs.cloud/)">
     <img src="https://img.shields.io/badge/GET-POSTGRES%20DATABASE-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 </p>
