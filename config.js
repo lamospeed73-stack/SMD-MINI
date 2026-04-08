@@ -29,11 +29,11 @@ module.exports = {
     // =============================
     BOT_NAME:
         process.env.BOT_NAME ||
-        "Rashid",
+        "Sharry",
 
     OWNER_NAME:
         process.env.OWNER_NAME ||
-        "THE-DEVIL",
+        "SHAHARYAR-ALI",
 
     CAPTION:
         process.env.CAPTION ||
@@ -41,11 +41,11 @@ module.exports = {
 
     STATUS_MSG:
         process.env.STATUS_MSG ||
-        "Hello From Team-Bandaheali",
+        "Hello From Team-Professor",
 
     NEWSLETTER_JID:
         process.env.NEWSLETTER_JID ||
-        "120363175375282051@newsletter",
+        "120363424371541023@newsletter",
 
     MENU_IMG:
         process.env.MENU_IMG ||
